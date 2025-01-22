@@ -1,4 +1,3 @@
-package Notes;
 //Md. Mahdi Hasan Tazelly, SID: 2212193042
 public class MultiThreading {
     public static void main(String[] args){
